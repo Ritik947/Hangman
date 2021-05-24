@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "kbc",
+			"path": "..\\..\\KBC\\kbc"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
